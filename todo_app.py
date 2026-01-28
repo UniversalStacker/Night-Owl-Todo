@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 DATA_FILE = "owl_data.json"
 VERSION = "1.0.0"
 # Replace 'YOUR_USERNAME' and 'YOUR_REPO' with your actual GitHub details after uploading
-VERSION_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/version.txt"
+VERSION_URL = "https://raw.githubusercontent.com/UniversalStacker/Night-Owl-Todo/main/version.txt"
 
 # --- HELPERS ---
 def get_current_time_str():
@@ -220,4 +220,5 @@ class NightOwlApp(ctk.CTk):
 if __name__ == "__main__":
     app = NightOwlApp()
     app.protocol("WM_DELETE_WINDOW", app.on_closing)
+
     app.mainloop()
