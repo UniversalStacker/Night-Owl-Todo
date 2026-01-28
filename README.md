@@ -28,7 +28,7 @@ If you want to run the source code directly:
 Clone this repository:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/UniversalStacker/Night-Owl-Todo.git
 Install the required libraries:
 
 Bash
