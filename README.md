@@ -1,5 +1,6 @@
 # CustomFlow
 A minimalist To-Do app with a customizable Day Reset Time.
+
 🦉 CustomFlow
 CustomFlow is a minimalist task manager designed specifically for people whose "today" doesn't end at midnight. Whether you're a night shift worker, a student pulling an all-nighter, or just a late-night coder, this app ensures your to-do list stays with you until you actually go to sleep.
 
@@ -17,9 +18,7 @@ Privacy First: All data is saved locally on your computer in a simple JSON file.
 🚀 How to Install
 For Regular Users (Windows)
 Go to the Releases page.
-
-Download the latest CustomeFlow Version
-
+Download the latest CustomFlow Version from releases.
 Double-click to run! (Windows may show a "SmartScreen" warning since it's an unrecognized app; just click More Info -> Run Anyway).
 
 For Developers (Python)
