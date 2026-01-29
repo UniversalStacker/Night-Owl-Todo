@@ -1,10 +1,10 @@
-# Night-Owl-Todo
+# CustomFlow
 A minimalist To-Do app with a customizable Day Reset Time.
-🦉 Night Owl To-Do
-Night Owl To-Do is a minimalist task manager designed specifically for people whose "today" doesn't end at midnight. Whether you're a night shift worker, a student pulling an all-nighter, or just a late-night coder, this app ensures your to-do list stays with you until you actually go to sleep.
+🦉 CustomFlow
+CustomFlow is a minimalist task manager designed specifically for people whose "today" doesn't end at midnight. Whether you're a night shift worker, a student pulling an all-nighter, or just a late-night coder, this app ensures your to-do list stays with you until you actually go to sleep.
 
 ✨ Key Features
-Custom Day Reset: Set your own "start" and "end" times (e.g., 3:00 AM) so your list doesn't vanish in the middle of your productivity flow.
+Custom Day Reset: Set your own "start" and "end" times so your list doesn't vanish in the middle of your productivity flow.
 
 Automatic Cleanup: Tasks from the previous "logical day" are cleared automatically based on your settings.
 
@@ -18,23 +18,19 @@ Privacy First: All data is saved locally on your computer in a simple JSON file.
 For Regular Users (Windows)
 Go to the Releases page.
 
-Download the latest NightOwl_vX.X.X.exe.
+Download the latest CustomeFlow Version
 
 Double-click to run! (Windows may show a "SmartScreen" warning since it's an unrecognized app; just click More Info -> Run Anyway).
 
 For Developers (Python)
 If you want to run the source code directly:
-
 Clone this repository:
-
 Bash
-git clone https://github.com/UniversalStacker/Night-Owl-Todo.git
+git clone https://github.com/UniversalStacker/CustomFlow.git
 Install the required libraries:
-
 Bash
 pip install customtkinter requests
 Run the app:
-
 Bash
 python night_owl.py
 🛠️ How to Update
